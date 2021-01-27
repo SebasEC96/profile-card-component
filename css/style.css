@@ -10,7 +10,7 @@ body {
   background-color: #19a2ae;
   height: 100vh;
   overflow-y: hidden;
-  background-image: url("./images/bg-pattern-top.svg"), url("./images/bg-pattern-bottom.svg");
+  background-image: url("../images/bg-pattern-top.svg"), url("../images/bg-pattern-bottom.svg");
   background-size: 85rem;
   background-position: top -50rem left -25rem, bottom -56rem right -20rem;
   background-repeat: no-repeat;
@@ -64,7 +64,7 @@ body {
 .container .profile-card .card-header {
   height: 9rem;
   border-radius: 1rem 1rem 0 0;
-  background-image: url("./images/bg-pattern-card.svg");
+  background-image: url("../images/bg-pattern-card.svg");
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
